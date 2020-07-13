@@ -1,0 +1,3 @@
+[submodule "SynthDetSimulation"]
+	path = SynthDetSimulation
+	url = https://github.com/ChaejungMaeng/SynthDet.git
